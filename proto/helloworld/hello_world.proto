@@ -2,7 +2,7 @@ syntax = "proto3";
 
 import "google/api/annotations.proto";
 
-option go_package = "github.com/dtuit/helloworld/helloworld";
+option go_package = "github.com/dtuit/grpc-gateway-example/helloworld";
 
 // Here is the overall greeting service definition where we define all our endpoints
 service Greeter {

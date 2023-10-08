@@ -1,4 +1,4 @@
 version: v1
-name: buf.build/dtuit/grpc-gateway-tut
+name: buf.build/dtuit/grpc-gateway-example
 deps:
   - buf.build/googleapis/googleapis
