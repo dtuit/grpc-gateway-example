@@ -1,6 +1,6 @@
 # GRPC-Gateway HelloWorld
 
-## Resoures
+## Resources
 - https://github.com/grpc-ecosystem/grpc-gateway
 - https://github.com/iamrajiv/helloworld-grpc-gateway/tree/main
 
